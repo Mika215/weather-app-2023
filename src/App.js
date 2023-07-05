@@ -4,8 +4,6 @@ import {dateGetter} from "./utils";
 import {InputBase, makeStyles} from "@material-ui/core";
 import SearchIcon from "@material-ui/icons/Search";
 import "./App.css";
-// console.log(process.env)//! check this out it prints out the api keys to the console!
-//root className
 const useStyles = makeStyles({
   root: {
     backgroundColor: "#fff",
